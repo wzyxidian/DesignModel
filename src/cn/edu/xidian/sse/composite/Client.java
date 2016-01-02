@@ -21,5 +21,6 @@ public class Client {
 		
 		composite1.display();
 		
+		
 	}
 }
